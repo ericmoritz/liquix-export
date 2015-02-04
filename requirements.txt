@@ -1,0 +1,10 @@
+SPARQLWrapper==1.6.4
+html5lib==0.999
+isodate==0.5.1
+mercurial==3.0
+pyparsing==2.0.3
+rdflib==4.1.2
+rdflib-jsonld==0.2
+six==1.9.0
+tabulate==0.7.3
+wsgiref==0.1.2
